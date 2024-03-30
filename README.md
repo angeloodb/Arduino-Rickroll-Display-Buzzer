@@ -4,7 +4,7 @@ Project for Arduino Mega 2560 - Plays "Never Gonna Give You Up" and shows the wo
 
 # Connections
 
-<img src="schema.png">
+<img src="rickroll/schema.png">
 
 ## Credits:
 
